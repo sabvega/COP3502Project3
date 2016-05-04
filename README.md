@@ -1,1 +1,3 @@
-Third Project from COP3502
+Third project from Programming Fundamentals 1
+
+Takes in three command line parameters (Number of Rows, Number of Columns, Middle Frequency). Using these numbers the program generates a an array of those dimensions that is filled with randomly generated frequencys. Each "chord"  or column has a certain time that it will be played for in seconds. The program then visually represents the chords through timed prints of dots. Finally it retrieves the frequency in each chord that is closest to the Middle Frequency inputted as a parameter and plays that melody for the appropriate time as generated in the first array.
